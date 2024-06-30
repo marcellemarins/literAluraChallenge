@@ -1,4 +1,4 @@
-package com.marin.LiterAluraChallenge.services;
+package com.marin.LiterAluraChallenge.services.API;
 
 import java.io.IOException;
 import java.net.URI;
